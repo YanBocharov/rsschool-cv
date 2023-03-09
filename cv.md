@@ -32,3 +32,19 @@ function removeChar(str){
 - _Git_
 - _HTML_
 - _JS (Basic)_
+
+#### Education
+
+- University: **Tula State University**, _in the specialty information security_
+- Courses:
+  - [HTML Academy](https://htmlacademy.ru/)
+  - [Udemy](https://www.udemy.com/course/javascript_full/)
+  - [YouTube](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=5988s)
+
+---
+
+#### English
+
+_A1_ (_Now I am actively learning and trying to practice English_)
+
+---
